@@ -1,0 +1,6 @@
+{
+  "name": "Mipmap Generator",
+  "description": "Create, edit, preview, and export Android mipmap icons in MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI densities with custom resource naming and ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
